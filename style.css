@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit; }
 
 @font-face {
   font-family: "Bicubik-Regular"; 
-  src: url("bicubik.otf") format("truetype"); 
+  src: url("bicubik.OTF") format("truetype"); 
   font-style: normal; 
   font-weight: normal; 
 } 

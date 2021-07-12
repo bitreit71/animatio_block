@@ -36,7 +36,7 @@ img {vertical-align: top;}
 h1, h2, h3, h4, h5, h6 {font-size: inherit;font-weight: inherit; }
 
 @font-face {
-  font-family: "Bicubik-Regular"; 
+  font-family: "Bicubik"; 
   src: url("Bicubik.ttf") format("truetype"); 
   font-style: normal; 
   font-weight: normal; 
@@ -602,7 +602,7 @@ body {
 .brands__title h2 {
   padding-left: 11px;
   padding-top: 17px;
-  font-family: "Bicubik-Regular";
+  font-family: "Bicubik";
   font-size: 18px;
 }
 
@@ -631,7 +631,7 @@ body {
 }
 
 .brands__link-button {
-  font-family: "Bicubik-Regular";
+  font-family: "Bicubik";
   font-size: 18px;
   color: #000;
   border-bottom: 1px solid;
@@ -1176,7 +1176,7 @@ body {
 .brands__title h2 {
   padding-left: 11px;
   padding-top: 17px;
-  font-family: "Bicubik-Regular";
+  font-family: "Bicubik";
   font-size: 18px;
 }
 
@@ -1193,7 +1193,7 @@ body {
 }
 
 .brands__link-button {
-  font-family: "Bicubik-Regular";
+  font-family: "Bicubik";
   font-size: 18px;
   color: #000;
   border-bottom: 1px solid;
@@ -1748,7 +1748,7 @@ body {
 .brands__title h2 {
   padding-left: 11px;
   padding-top: 17px;
-  font-family: "Bicubik-Regular";
+  font-family: "Bicubik";
   font-size: 18px;
 }
 
@@ -1765,7 +1765,7 @@ body {
 }
 
 .brands__link-button {
-  font-family: "Bicubik-Regular";
+  font-family: "Bicubik";
   font-size: 18px;
   color: #000;
   border-bottom: 1px solid;
